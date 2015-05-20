@@ -59,7 +59,7 @@ Try to measure anisotropy in "tau", the optical depth to Thomson scattering for 
 
 1. Spatially-filter a Planck 545 GHz map to isolate the CIB.
 2. Assume this map is proportional to delta_tau, the tau anisotropy.
-3. "Screen" the Planck CMB map (e.g. Commander ruler) by the CIB map, i.e. multiply the two together.
+3. "Screen" the Planck CMB map (e.g. Commander ruler) by the delta_tau map, i.e. multiply the two together.
 4. Look for the signature of this screening in the Planck CMB data, i.e. cross-correlate (CMB x (CMB x delta_tau)).
 5. This is similar to how [Hanson et al 2013](http://arxiv.org/abs/1307.5830) used the CIB and mostly-unlensed E-modes to construct a B-mode template, then looked for those B-modes in SPTpol data.
 
@@ -69,4 +69,11 @@ OR
 2. Cross-correlate that (noisy) tau map with a Planck CIB map (e.g. 545 GHz).  The idea is that the CIB traces z~2 LSS, and tau anisotropy will also follow the LSS.
 
 In fact, because the redshift kernels for tau and phi are so similar in shape over the redshift range of the CIB, the relatively unknown redshift distribution of the CIB (dI/dz) *drops out* of the following ratio: (CIB x tau) / (CIB x phi).  If you assume that you know Omega_b and Omega_M from the CMB, then this provides a measurement of the linear bias of the tau anisotropy.  Alternatively, you can assume bias_tau=1, and use this as a measurement of (Omega_b/Omega_M).  Missing baryons!
+
+
+The basic picture here is that degree-scale primary CMB gets screened by few-to-ten-arcminute-scale fluctuations in tau.  The primary CMB is measured well by Planck (just smooth Planck CMB map with a FWHM=10' gaussian.  this still has ~95% of the primary CMB variance).  Then, if the CIB map is a good LSS tracer out to some L_MAX, you can try to look for the resulting signal in some "fine-scale" CMB data, which could be Planck, SPT, etc.
+
+- Using Planck for the fine-scale CMB, I estimate a SNR of [5, 6.5, 7] for LMAX_LSS of [2000, 2500, 3000].
+- Using SPT-SZ for the fine-scale CMB, I estimate a SNR of [2,4,6.5] for LMAX_LSS of [2000, 2500, 3000].
+
 
