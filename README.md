@@ -80,18 +80,16 @@ The basic picture here is that degree-scale primary CMB gets screened by few-to-
 - Using Planck for the fine-scale CMB, I estimate a SNR of [5, 6.5, 7] for LMAX_LSS of [2000, 2500, 3000].
 - Using SPT-SZ for the fine-scale CMB, I estimate a SNR of [2,4,6.5] for LMAX_LSS of [2000, 2500, 3000].
 
-## other half-baked ideas ##
+## other ideas ##
 
 <img src="https://github.com/rkeisler/ideas-for-the-taking/blob/master/images/crazy.png" width="200px"/>
 
 
-- measure mass profile of voids on 20-100 Mpc scales using CMB lensing.  try to measure the "1-void" term.  this may be particularly sensitive to neutrino mass.  Talk with Neal Dalal.
+- Measure mass profile of voids on 20-100 Mpc scales using CMB lensing.  This may be particularly sensitive to neutrino mass.  Talk with Neal Dalal.
 
-- Measure tau-profiles (Thomson optical depth) of galaxies using ALMA + CMB.  i.e. select a bunch of galaxies that are sitting on peaks or troughs of the CMB, then image them with ALMA.  a quick SNR calculation with Yashar suggests this is not orders-of-mag insane, but still probably one order-of-mag too dim to be seen in a reasonable amount of time with ALMA.
+- Measure tau-profiles (Thomson optical depth) of galaxies using ALMA + CMB.  I.e. select a bunch of galaxies that are sitting on peaks or troughs of the CMB, then image them with ALMA.  A quick SNR calculation with Yashar suggests this is not orders-of-mag insane, but still probably one order-of-mag too dim to be seen in a reasonable amount of time with ALMA.
 
 - Try to measure radio relics in SPT clusters, like in http://arxiv.org/abs/1409.2943 .  Could these make up a significant portion of the GHz radio background (the "ARCADE2 excess")?  
-
-- Could Orphan GRB's make up the radio background? http://arxiv.org/pdf/1504.02096v1.pdf
 
 - There's some idea of intergalactic dust that doesn't redden, it just attenuates: "gray dust".  Can't you look at inferred luminosity of CMASS galaxies as a function of angular distance from LOWZ galaxies (or something more clever), to limit this?
 
