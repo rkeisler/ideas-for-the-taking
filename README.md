@@ -6,7 +6,7 @@ Feel free to use any of these ideas.  If it works out well, you can give me as l
 
 ## Does the GHz radio excess come from z~0.5 structure?##
 
-![boss_fan](images/boss_fan.png =10x)
+<img src="https://github.com/rkeisler/ideas-for-the-taking/blob/master/images/boss_fan.png" width="200px"/>
 
 [Holder 2012](http://arxiv.org/abs/1207.0856) argues pretty convincingly that the GHz radio background excess (think ARCADE2) cannot originate from z<1 structure: if the excess radio signal did come from LSS, it would cluster, and the the GHz sky is too smooth.  However, as Gil points out, there are ways out, like it could be very puffy (10 Mpc radio halos or something), and would thereby evade the "overly smooth" ell~10000 anisotropy data that Gil used.
 
@@ -25,6 +25,9 @@ I started working on this in 2013/2014, and there's [code here](https://github.c
 
 ## kSZ with SDSS+Planck##
 
+<img src="https://github.com/rkeisler/ideas-for-the-taking/blob/master/images/ksz_template.png" width="200px"/>
+
+
 1. Use the BOSS (CMASS+LOWZ) spec-z catalog to estimate the 3d density field over the BOSS footprint.
 2. Use the 3d density field to optimally estimate the (linear) 3d velocity field.
 3. Evaluate the 3d velocity field at the locations of SDSS clusters (e.g. redmapper).
@@ -33,7 +36,11 @@ I started working on this in 2013/2014, and there's [code here](https://github.c
 
 I got pretty far along with this in spring 2014, and there is [code here](https://github.com/rkeisler/vksz).  Using the pre-final BOSS and Planck data, I was seeing something at the 2-3 sigma level, and the analysis should be significantly better (and easier) with the full BOSS footprint and final Planck data.
 
+
 ## the distribution of BOSS galaxies around redmapper clusters ##
+
+<img src="https://github.com/rkeisler/ideas-for-the-taking/blob/master/images/rm_boss.png" width="200px"/>
+
 I've done a quick measurement of the two-dimensional, two-point correlation function between redmapper clusters and BOSS galaxies.  This is basically the distribution of BOSS galaxies around redmapper clusters.
 
 The image above shows the results, and you can see the features you'd expect to see: strong positive correlation extending out to ~100 Mpc, redshift-space distortions squashing the correlation on tens-of-Mpc scales, and fingers-of-god on ~1 Mpc scales.
