@@ -2,7 +2,7 @@
 
 *Underdeveloped ideas for cosmological data analysis projects.*
 
-Feel free to use any of these ideas.  If any of them stick, you can give me as little or as much credit as you'd like, although I'd appreciate an acknowledgement.  For some of these ideas, I have additional notes and papers that I've put together, so just ping me about that.
+Feel free to use any of these ideas.  If one of them sticks, you can give me as little or as much credit as you'd like.  For some of these ideas, I have additional notes and papers that I've put together, so just ping me about that.
 
 ## Does the GHz radio excess come from z~0.5 structure?##
 
