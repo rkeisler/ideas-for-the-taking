@@ -8,6 +8,7 @@ Feel free to use any of these ideas.  If it works out well, you can give me as l
 [Holder 2012](http://arxiv.org/abs/1207.0856) argues pretty convincingly that this cannot be the case: if the excess radio signal comes from LSS, it must cluster, and the the GHz sky is too smooth.  However, as Gil points out, there are ways out, like it could be very puffy (10 Mpc radio halos or something), and would thereby evade the "overly smooth" ell~10000 anisotropy data that Gil used.
 
 The idea here is to test this on larger scales (ell<2000), by cross-correlating BOSS galaxy survey data with ~GHz data.
+
 1. Construct a parameterized model for the redshift distribution of the GHz intensity (monopole), dI/dz.
 2. Assume that, on sufficiently large scales, the GHz anisotropy is a biased tracer of the matter anisotropy.  For concreteness, assume the linear bias is b=1.
 3. Under the above assumptions, use the (non-linear) power spectrum and Limber theory to calculate the (delta x I) cross-spectrum, where delta is the projected fractional overdensity of BOSS galaxies, and I is the GHz radio intensity.  You'll need to know the bias of the BOSS sample, but that is sufficiently well known.
