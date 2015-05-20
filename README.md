@@ -54,7 +54,7 @@ With this data you might be able to:
 Fabian Schmidt, Eduardo Rozo, and Eli Rykoff might be interested in getting involved in this, and in any case, they can provide some good advice.
 
 
-# optical depth anisotropy #
+## optical depth anisotropy ##
 Try to measure anisotropy in "tau", the optical depth to Thomson scattering for CMB photons, in the following way.
 
 1. Spatially-filter a Planck 545 GHz map to isolate the CIB.
@@ -75,5 +75,18 @@ The basic picture here is that degree-scale primary CMB gets screened by few-to-
 
 - Using Planck for the fine-scale CMB, I estimate a SNR of [5, 6.5, 7] for LMAX_LSS of [2000, 2500, 3000].
 - Using SPT-SZ for the fine-scale CMB, I estimate a SNR of [2,4,6.5] for LMAX_LSS of [2000, 2500, 3000].
+
+## Very underdeveloped ideas ##
+- measure mass profile of voids on 20-100 Mpc scales using CMB lensing.  try to measure the "1-void" term.  this may be particularly sensitive to neutrino mass.  Talk with Neil Dalal.
+
+- Measure tau-profiles (Thomson optical depth) of galaxies using ALMA + CMB.  i.e. select a bunch of galaxies that are sitting on peaks or troughs of the CMB, then image them with ALMA.  a quick SNR calculation with Yashar suggests this is not orders-of-mag insane, but still probably one order-of-mag too dim to be seen in a reasonable amount of time with ALMA.
+
+- Try to measure radio relics in SPT clusters, like in http://arxiv.org/abs/1409.2943 .  Could these make up a significant portion of the GHz radio background (the "ARCADE2 excess")?  
+
+- Could Orphan GRB's make up the radio background? http://arxiv.org/pdf/1504.02096v1.pdf
+
+- There's some idea of intergalactic dust that doesn't redden, it just attenuates: "gray dust".  Can't you look at inferred luminosity of CMASS galaxies as a function of angular distance from LOWZ galaxies (or something more clever), to limit this?
+
+- Will the gravitational potential at earth, relative to cosmic mean, be important for future astronomical measurements?  E.g. if you try to infer the photon-to-baryon ratio from a futuristic measurement of T_CMB (say, by PIXIE), you'll be off.  Sitting within large-scale structure, including a massive cluster environment, can lead to a ~30 km/s gravitational redshift = (1e-4)*c.  FIRAS measures T_CMB to ~1e-3 fractional accuracy, so the gravitational redshift isn't important, but it's not far off.
 
 
