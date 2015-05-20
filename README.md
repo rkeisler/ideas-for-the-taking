@@ -6,7 +6,7 @@ Feel free to use any of these ideas.  If it works out well, you can give me as l
 
 ## Does the GHz radio excess come from z~0.5 structure?##
 
-<img src="images/boss_fan.png" alt="hi" style="width: 100px;"/>
+<img src="images/boss_fan.png" alt="hi" style="width: 10px;"/>
 
 [Holder 2012](http://arxiv.org/abs/1207.0856) argues pretty convincingly that the GHz radio background excess (think ARCADE2) cannot originate from z<1 structure: if the excess radio signal did come from LSS, it would cluster, and the the GHz sky is too smooth.  However, as Gil points out, there are ways out, like it could be very puffy (10 Mpc radio halos or something), and would thereby evade the "overly smooth" ell~10000 anisotropy data that Gil used.
 
