@@ -43,7 +43,7 @@ I got pretty far along with this in spring 2014, and there is [code here](https:
 
 I've done a quick measurement of the two-dimensional, two-point correlation function between redmapper clusters and BOSS galaxies.  This is basically the distribution of BOSS galaxies around redmapper clusters.
 
-The image above shows the results, and you can see the features you'd expect to see: strong positive correlation extending out to ~100 Mpc, redshift-space distortions squashing the correlation on tens-of-Mpc scales, and fingers-of-god on ~1 Mpc scales.
+The image above shows a subset of the results, and you can see the features you'd expect to see: strong positive correlation extending out to ~100 Mpc, redshift-space distortions squashing the correlation on tens-of-Mpc scales, and fingers-of-god on ~1 Mpc scales.
 
 With this data you might be able to:
 
