@@ -91,6 +91,6 @@ The basic picture here is that degree-scale primary CMB gets screened by few-to-
 
 - There's some idea of intergalactic dust that doesn't redden, it just attenuates: "gray dust".  Can't you look at inferred luminosity of CMASS galaxies as a function of angular distance from LOWZ galaxies (or something more clever), to limit this?
 
-- Will the gravitational potential at earth, relative to cosmic mean, be important for future astronomical measurements?  E.g. if you try to infer the photon-to-baryon ratio from a futuristic measurement of T_CMB (say, by PIXIE), you'll be off.  Sitting within large-scale structure, including a massive cluster environment, can lead to a ~30 km/s gravitational redshift = (1e-4)*c.  FIRAS measures T_CMB to ~1e-3 fractional accuracy, so the gravitational redshift isn't important, but it's not far off.
+- Will the gravitational potential at earth, relative to cosmic mean, be important for future astronomical measurements?  E.g. if you try to infer the photon-to-baryon ratio from a futuristic measurement of T_CMB (say, by PIXIE), you'll be off.  An observer sitting within a massive cluster can see a ~30 km/s gravitational redshift = (1e-4)*c.  While 1e-4 isn't important for the COBE/FIRAS measurement of T_CMB (1e-3 fractional accuracy), it would be for more precise measurements.
 
 
