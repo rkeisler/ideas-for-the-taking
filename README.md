@@ -53,3 +53,20 @@ With this data you might be able to:
 
 Fabian Schmidt, Eduardo Rozo, and Eli Rykoff might be interested in getting involved in this, and in any case, they can provide some good advice.
 
+
+# optical depth anisotropy #
+Try to measure anisotropy in "tau", the optical depth to Thomson scattering for CMB photons, in the following way.
+
+1. Spatially-filter a Planck 545 GHz map to isolate the CIB.
+2. Assume this map is proportional to delta_tau, the tau anisotropy.
+3. "Screen" the Planck CMB map (e.g. Commander ruler) by the CIB map, i.e. multiply the two together.
+4. Look for the signature of this screening in the Planck CMB data, i.e. cross-correlate (CMB x (CMB x delta_tau)).
+5. This is similar to how [Hanson et al 2013](http://arxiv.org/abs/1307.5830) used the CIB and mostly-unlensed E-modes to construct a B-mode template, then looked for those B-modes in SPTpol data.
+
+OR
+
+1. There is a set of quadratic estimators that can be used to estimate tau using CMB data, just like there is for phi, the CMB lensing potential.  Use Planck CMB data to construct a QE estimate of tau.
+2. Cross-correlate that (noisy) tau map with a Planck CIB map (e.g. 545 GHz).  The idea is that the CIB traces z~2 LSS, and tau anisotropy will also follow the LSS.
+
+In fact, because the redshift kernels for tau and phi are so similar in shape over the redshift range of the CIB, the relatively unknown redshift distribution of the CIB (dI/dz) *drops out* of the following ratio: (CIB x tau) / (CIB x phi).  If you assume that you know Omega_b and Omega_M from the CMB, then this provides a measurement of the linear bias of the tau anisotropy.  Alternatively, you can assume bias_tau=1, and use this as a measurement of (Omega_b/Omega_M).  Missing baryons!
+
