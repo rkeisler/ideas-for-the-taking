@@ -30,4 +30,16 @@ I started working on this in 2013/2014, and there's [code here](https://github.c
 
 I got pretty far along with this in spring 2014, and there is [code here](https://github.com/rkeisler/vksz).  Using the pre-final BOSS and Planck data, I was seeing something at the 2-3 sigma level, and the analysis should be significantly better (and easier) with the full BOSS footprint and final Planck data.
 
+## the distribution of BOSS galaxies around redmapper clusters ##
+I've done a quick measurement of the two-dimensional, two-point correlation function between redmapper clusters and BOSS galaxies.  This is basically the distribution of BOSS galaxies around redmapper clusters.
+
+The image above shows the results, and you can see the features you'd expect to see: strong positive correlation extending out to ~100 Mpc, redshift-space distortions squashing the correlation on tens-of-Mpc scales, and fingers-of-god on ~1 Mpc scales.
+
+With this data you might be able to:
+
+- do something similar to what was done in [this paper](http://arxiv.org/abs/1404.3742), which analyzed the anisotropic clustering of CMASS galaxies on quasi/non-linear scales to constrain (f*sigma8) at the redshift of the sample.
+- constrain the mass of the RM clusters.
+- test GR, as described in Fabian Schmidt's [paper](http://arxiv.org/abs/1202.4501).
+
+Fabian Schmidt, Eduardo Rozo, and Eli Rykoff might be interested in getting involved in this, and in any case, they can provide some good advice.
 
