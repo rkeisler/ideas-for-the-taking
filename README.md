@@ -80,7 +80,11 @@ The basic picture here is that degree-scale primary CMB gets screened by few-to-
 - Using Planck for the fine-scale CMB, I estimate a SNR of [5, 6.5, 7] for LMAX_LSS of [2000, 2500, 3000].
 - Using SPT-SZ for the fine-scale CMB, I estimate a SNR of [2,4,6.5] for LMAX_LSS of [2000, 2500, 3000].
 
-## very underdeveloped ideas ##
+## other half-baked ideas ##
+
+<img src="https://github.com/rkeisler/ideas-for-the-taking/blob/master/images/crazy.png" width="200px"/>
+
+
 - measure mass profile of voids on 20-100 Mpc scales using CMB lensing.  try to measure the "1-void" term.  this may be particularly sensitive to neutrino mass.  Talk with Neal Dalal.
 
 - Measure tau-profiles (Thomson optical depth) of galaxies using ALMA + CMB.  i.e. select a bunch of galaxies that are sitting on peaks or troughs of the CMB, then image them with ALMA.  a quick SNR calculation with Yashar suggests this is not orders-of-mag insane, but still probably one order-of-mag too dim to be seen in a reasonable amount of time with ALMA.
