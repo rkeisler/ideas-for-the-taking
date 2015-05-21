@@ -76,7 +76,7 @@ OR
 In fact, because the redshift kernels for tau and phi are so similar in shape over the redshift range of the CIB, the relatively unknown redshift distribution of the CIB (dI/dz) *drops out* of the following ratio: (CIB x tau) / (CIB x phi).  If you assume that you know Omega_b and Omega_M from the CMB, then this provides a measurement of the linear bias of the tau anisotropy.  Alternatively, you can assume bias_tau=1, and use this as a measurement of (Omega_b/Omega_M).  Go find those missing baryons!
 
 
-The basic picture here is that degree-scale primary CMB gets screened by few-to-ten-arcminute-scale fluctuations in tau.  The primary CMB is measured well by Planck (just smooth Planck CMB map with a FWHM=10' gaussian.  this still has ~95% of the primary CMB variance).  Then, if the CIB map is a good LSS tracer out to some L_MAX, you can try to look for the resulting signal in some "fine-scale" CMB data, which could be Planck, SPT, etc.
+The basic picture here is that degree-scale primary CMB gets screened by few-to-ten-arcminute-scale fluctuations in tau.  The primary CMB is measured well by Planck (just smooth Planck CMB map with a FWHM=10' gaussian.  this still has ~95% of the primary CMB variance).  Then, if the CIB map is a good LSS tracer out to some LMAX_LSS, you can try to look for the resulting signal in some "fine-scale" CMB data, which could be Planck, SPT, etc.
 
 - Using Planck for the fine-scale CMB, I estimate a SNR of [5, 6.5, 7] for LMAX_LSS of [2000, 2500, 3000].
 - Using SPT-SZ for the fine-scale CMB, I estimate a SNR of [2,4,6.5] for LMAX_LSS of [2000, 2500, 3000].
