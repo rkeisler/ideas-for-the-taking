@@ -8,7 +8,7 @@ Feel free to use any of these ideas.  If one of them sticks, you can give me as 
 
 <img src="https://github.com/rkeisler/ideas-for-the-taking/blob/master/images/boss_fan.png" width="200px"/>
 
-[Holder 2012](http://arxiv.org/abs/1207.0856) argues pretty convincingly that the GHz radio background excess (think ARCADE2) cannot originate from z<1 structure: if the excess radio signal did come from LSS, it would cluster, and the observed GHz sky is too smooth.  However, as Gil points out, there are ways out.  The radio flux could be very puffy (10 Mpc radio halos or something), and would thereby evade the "overly smooth" ell~10000 anisotropy data that Gil used.
+[Holder 2014](http://arxiv.org/abs/1207.0856) argues pretty convincingly that the GHz radio background excess (think ARCADE2) cannot originate from z<1 structure: if the excess radio signal did come from LSS, it would cluster, and the observed GHz sky is too smooth.  However, as Gil points out, there are ways out.  The radio flux could be very puffy (10 Mpc radio halos or something), and would thereby evade the "overly smooth" ell~10000 anisotropy data that Gil used.
 
 The idea of this project is to test this on larger scales (ell<2000), by cross-correlating BOSS galaxy survey data with ~GHz data (CHIPASS, Haslam, etc).
 
